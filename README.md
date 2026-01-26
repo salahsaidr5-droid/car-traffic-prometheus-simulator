@@ -4,7 +4,7 @@ A simple Python exporter that simulates car traffic counts and exposes Prometheu
 http://localhost:8000/metrics
 
 ## Architecture
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](architecture.png)
 
 ## Run
 ```bash
