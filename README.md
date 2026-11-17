@@ -1,7 +1,6 @@
 # Car Traffic Prometheus Simulator
 
-A simple Python exporter that simulates car traffic counts and exposes Prometheus metrics at:
-http://localhost:8000/metrics
+A simple Python exporter that simulates car traffic counts and exposes Prometheus metrics 
 
 ## Architecture
 ![Architecture Diagram](architecture.png)
